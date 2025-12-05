@@ -6,4 +6,6 @@ Le deuxième propose la description d’image, afin de découvrir la manière do
 Enfin, nous avons créé un jeu de classification, qui illustre la façon dont l’IA organise et classe les informations qu’elle reçoit.
 
 Nous avons développé l’ensemble avec Streamlit en Python, un choix naturel pour sa rapidité, sa simplicité et l’efficacité qu’il offre pour construire des interfaces interactives.
+
+(pour lancer le site il faut se placer dans le repertoire qui contient le fichier et ecrire dans le terminale: streamlit run nom_app.py ici app_ndf.py)
 #team:GalaxyTravelers
